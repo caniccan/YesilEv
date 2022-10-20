@@ -1,0 +1,10 @@
+C:\Users\Pc\source\repos\YesilEvV3\YesilEvV2.Log\obj\Debug\YesilEvV2.Log.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\YesilEvV3\YesilEvV2.Log\obj\Debug\YesilEvV2.Log.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\YesilEvV3\YesilEvV2.Log\bin\Debug\NLog.config
+C:\Users\Pc\source\repos\YesilEvV3\YesilEvV2.Log\bin\Debug\YesilEvV2.Log.dll
+C:\Users\Pc\source\repos\YesilEvV3\YesilEvV2.Log\bin\Debug\YesilEvV2.Log.pdb
+C:\Users\Pc\source\repos\YesilEvV3\YesilEvV2.Log\bin\Debug\NLog.dll
+C:\Users\Pc\source\repos\YesilEvV3\YesilEvV2.Log\bin\Debug\NLog.xml
+C:\Users\Pc\source\repos\YesilEvV3\YesilEvV2.Log\obj\Debug\YesilEvV2.Log.csproj.CopyComplete
+C:\Users\Pc\source\repos\YesilEvV3\YesilEvV2.Log\obj\Debug\YesilEvV2.Log.dll
+C:\Users\Pc\source\repos\YesilEvV3\YesilEvV2.Log\obj\Debug\YesilEvV2.Log.pdb
